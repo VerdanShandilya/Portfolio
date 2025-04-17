@@ -1,0 +1,97 @@
+{
+  "data": {
+    "data": [
+      {
+        "id": 1,
+        "title": "BookIt",
+        "content": "Simplifying campus travel with smart shuttle bookings and real-time tracking. With Admin Panel to edit ride details.",
+        "imgurl": "/projectSS/Bookit.png",
+        "githubLink": "https://github.com/VerdanShandilya/ShuttleManagementSystem",
+        "deployedLink": "",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/sanityio.png"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "RestroBay",
+        "content": "Designed to streamline the end-to-end food ordering and delivery process by connecting customers, restaurants, and delivery personnel through a unified digital platform.",
+        "imgurl": "/projectSS/Restrobay.png",
+        "githubLink": "https://github.com/VerdanShandilya/Food_Site",
+        "deployedLink": "",
+        "tech": [
+          {
+            "tech": "/skillsLogos/react.png"
+          },
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Portfolio",
+        "content": "Nexts was used to create the portfolio website. TailwindCSS and Framer motion were used to style the website. Sanity is utilised as a content management system.",
+        "imgurl": "/projectSS/Portfolio.png",
+        "githubLink": "",
+        "deployedLink": "",
+        "tech": [
+          {
+            "tech": "/skillsLogos/next-js.png"
+          },
+          {
+            "tech": "/skillsLogos/typescript.png"
+          },
+          {
+            "tech": "/skillsLogos/framer.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "HealthEase",
+        "content": "Healthease is your smart companion for instant medical advice and expert consultations.Bridging AI technology with healthcare to make wellness simple, secure, and accessible.",
+        "imgurl": "/projectSS/HealthEase.png",
+        "githubLink": "https://github.com/VerdanShandilya/HealthEase",
+        "deployedLink": "",
+        "tech": [
+          {
+            "tech": "/skillsLogos/js.png"
+          },
+          {
+            "tech": "/skillsLogos/tailwind.png"
+          },
+          {
+            "tech": "/skillsLogos/mongodb.png"
+          },
+          {
+            "tech": "/skillsLogos/express.png"
+          }
+        ]
+      }
+    ]
+  }
+}
