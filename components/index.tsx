@@ -1,6 +1,5 @@
 import About from "./About";
 import BackgroundCircles from "./BackgroundCircles";
-import Blogs from "./Blogs";
 import Contact from "./Contact";
 import DarkModeToggle from "./DarkModeToggle";
 import Header from "./Header";
@@ -14,7 +13,6 @@ import CodingProfile from "./CodingProfile";
 export {
   About,
   BackgroundCircles,
-  Blogs,
   Contact,
   DarkModeToggle,
   Header,

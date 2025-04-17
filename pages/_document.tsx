@@ -2,18 +2,18 @@ import { Html, Head, Main, NextScript } from "next/document";
 
 export const metadata = {
   charset: "utf-8",
-  title: "Nikhil Kadam - Portfolio",
+  title: "Verdan Shandilya - Portfolio",
   description:
-    "A website about Nikhil Kadam, full stack developer, open source enthusiast, and tech creator.",
+    "A website about Verdan Shandilya, full stack developer.",
   keywords:
-    "Nikhil Kadam, Full Stack Developer, Open Source, Tech Creator, Nashik, Maharashtra, India",
-  author: "Nikhil Kadam",
+    "Verdan Shandilya, Full Stack Developer, Open Source, Tech Creator, Ludhiana, Punjab, India",
+  author: "Verdan Shandilya",
   openGraph: {
     url: "https://raw.githubusercontent.com/Nick-h4ck3r/portfolio-nextjs-latest/master/public/screenshots/portfolio/heroDemo.png",
-    title: "Nikhil Kadam - Portfolio",
+    title: "Verdan Shandilya - Portfolio",
     description:
       "A website about Nikhil Kadam, full stack developer, open source enthusiast, and tech creator.",
-    siteName: "Nikhil Kadam - Portfolio",
+    siteName: "Verdan Shandilya - Portfolio",
     images: [
       {
         url: "https://raw.githubusercontent.com/Nick-h4ck3r/portfolio-nextjs-latest/master/public/screenshots/portfolio/heroDemo.png",
@@ -26,9 +26,9 @@ export const metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Nikhil Kadam - Portfolio",
+    title: "Verdan Shandilya - Portfolio",
     description:
-      "A website about Nikhil Kadam, full stack developer, open source enthusiast, and tech creator.",
+      "A website about Verdan Shandilya full stack developer.",
     images: [
       {
         url: "https://raw.githubusercontent.com/Nick-h4ck3r/portfolio-nextjs-latest/master/public/screenshots/portfolio/heroDemo.png",

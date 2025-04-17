@@ -154,13 +154,6 @@ export default function Projects({ data }: Props) {
                     </span>
 
                     <span className="cursor-pointer underline">
-                      <a
-                        href={project.deployedLink}
-                        target="_blank"
-                        rel="noreferrer"
-                      >
-                        Live
-                      </a>
                       <span className="inline-flex">
                         <svg
                           className="with-icon_icon__MHUeb"
