@@ -1,5 +1,4 @@
 import React from "react";
-import { FaCircle } from "react-icons/fa"; // Import icons for colorful indicators
 
 type Props = {};
 
@@ -18,26 +17,26 @@ const CodingProfile: React.FC<Props> = () => {
         </div>
         <div className="flex flex-col items-center space-y-2">
           <div className="flex items-center space-x-2">
-            <FaCircle className="text-green-500" />
+            <div className="w-4 h-4 bg-green-500 rounded-full"></div>
             <span className="text-gray-700 dark:text-gray-300">
               Easy: <strong>200</strong>
             </span>
           </div>
           <div className="flex items-center space-x-2">
-            <FaCircle className="text-yellow-500" />
+            <div className="w-4 h-4 bg-yellow-500 rounded-full"></div>
             <span className="text-gray-700 dark:text-gray-300">
               Medium: <strong>250</strong>
             </span>
           </div>
           <div className="flex items-center space-x-2">
-            <FaCircle className="text-red-500" />
+            <div className="w-4 h-4 bg-red-500 rounded-full"></div>
             <span className="text-gray-700 dark:text-gray-300">
               Hard: <strong>50</strong>
             </span>
           </div>
         </div>
       </div>
-      <div className="pt-1"> {/* Reduced padding */}
+      <div className="pt-1">
         <a
           href="https://leetcode.com/u/Verdan_Shandilya/"
           target="_blank"
@@ -46,7 +45,7 @@ const CodingProfile: React.FC<Props> = () => {
           <button className="heroButton">Visit LeetCode</button>
         </a>
       </div>
-      <div className="pt-1"> {/* Reduced padding */}
+      <div className="pt-1">
         <a
           href="https://codeforces.com/profile/Verdan_101"
           target="_blank"
