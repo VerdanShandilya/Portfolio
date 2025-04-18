@@ -98,7 +98,7 @@ export default function Header({}: Props) {
           duration: 1.5,
           type: "tween",
         }}
-        className="flex flex-row items-center text-gray-800 hover:text-gray-900 dark:hover:text-white dark:text-gray-400 cursor-pointer space-x-2 pt-2 xl:pt-0"
+        className="flex flex-row items-center text-gray-800 hover:text-gray-900 dark:hover:text-white dark:text-gray-400 cursor-pointer space-x-4 pt-2 xl:pt-0"
       >
         <Link
           href="#contact"
@@ -116,6 +116,28 @@ export default function Header({}: Props) {
 
           <p className="hidden md:inline-flex text-sm">
             <span>Get in touch</span>
+          </p>
+        </Link>
+
+        {/* New Download Resume Button */}
+        <Link
+          href="/resume.pdf"
+          target="_blank"
+          rel="noopener noreferrer"
+          className="inline-flex items-center gap-2"
+        >
+          <svg
+            xmlns="http://www.w3.org/2000/svg"
+            viewBox="0 0 24 24"
+            fill="currentColor"
+            className="w-6 h-6"
+          >
+            <path d="M12 2a.75.75 0 01.75.75v14.69l3.72-3.72a.75.75 0 111.06 1.06l-5 5a.75.75 0 01-1.06 0l-5-5a.75.75 0 111.06-1.06l3.72 3.72V2.75A.75.75 0 0112 2z" />
+            <path d="M3.75 21a.75.75 0 000 1.5h16.5a.75.75 0 000-1.5H3.75z" />
+          </svg>
+
+          <p className="hidden md:inline-flex text-sm">
+            <span>Download Resume</span>
           </p>
         </Link>
       </motion.div>
