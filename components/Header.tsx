@@ -121,7 +121,7 @@ export default function Header({}: Props) {
 
         {/* New Download Resume Button */}
         <Link
-          href="/resume.pdf"
+          href="/Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
           className="inline-flex items-center gap-2"
