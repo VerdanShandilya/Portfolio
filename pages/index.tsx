@@ -5,7 +5,7 @@ import {
   Skills,
   Projects,
   Contact,
-  CodingProfile // Import CodingProfile
+  CodingProfile
 } from "@/components";
 
 export default function Home({ data }: any) {

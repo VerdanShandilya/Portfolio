@@ -75,8 +75,11 @@ export default function About({}: Props) {
           <span className="text-blue-500 font-semibold">
             full stack developer
           </span>{" "}
-          with a passion for building scalable and user-friendly web
-          applications. I love to create elegant solutions to complex problems.
+          I love to create elegant solutions to complex problems.passionate about web development and solving real-world problems through technology.
+          I’ve worked on various full-stack projects including Healthease,a health platform powered by AI, and GroceryHub,
+          a management system for grocery businesses.With hands-on experience in MongoDB, Express, Node.js, JavaScript, 
+          and React, I enjoy building practical, user-focused applications. I’ve also completed a DSA course and solved over 
+          500 problems on LeetCode, which has helped me strengthen my problem-solving and logical thinking.
           <br />
         </p>
       </div>
