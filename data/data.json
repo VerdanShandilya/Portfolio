@@ -29,7 +29,7 @@
         "content": "Designed to streamline the end-to-end food ordering and delivery process by connecting customers, restaurants, and delivery personnel through a unified digital platform.",
         "imgurl": "/projectSS/Restrobay.png",
         "githubLink": "https://github.com/VerdanShandilya/Food_Site",
-        "deployedLink": "",
+        "deployedLink": "https://food-site-s2b1.vercel.app/",
         "tech": [
           {
             "tech": "/skillsLogos/react.png"
@@ -54,7 +54,7 @@
         "content": "Nexts was used to create the portfolio website. TailwindCSS and Framer motion were used to style the website. Sanity is utilised as a content management system.",
         "imgurl": "/projectSS/Portfolio.png",
         "githubLink": "",
-        "deployedLink": "",
+        "deployedLink": "https://portfolio-2-five-woad.vercel.app/",
         "tech": [
           {
             "tech": "/skillsLogos/next-js.png"
